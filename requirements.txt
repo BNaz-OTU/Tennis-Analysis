@@ -1,0 +1,7 @@
+numpy==2.2.2
+opencv_python==4.11.0.86
+opencv_python_headless==4.10.0.84
+pandas==2.2.3
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.3.66

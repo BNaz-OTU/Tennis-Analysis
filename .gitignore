@@ -1,0 +1,11 @@
+.env
+
+.ipynb_checkpoints
+
+images/
+
+.DS_Store
+
+*.pt
+
+*.zip
